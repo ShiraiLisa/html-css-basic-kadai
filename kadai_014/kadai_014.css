@@ -1,0 +1,28 @@
+body {
+      font-family : "Aria" , "Meiryo" , sans-serif ;
+      font-size : 20px ;
+      text-align : center 
+    }
+
+h1  { 
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 200% ;
+    letter-spacing : 1.2em ;
+    text-shadow : rgba(0,0,0,0.4) 5px 5px 5px ;
+    border-bottom : solid 3px rgb(115,115,114)
+   }
+
+.M {
+    color : skyblue ;
+   }
+
+.P {
+    color : rgb(255,192,203)
+}
+
+div p {
+            font-weight : bold        
+           }
